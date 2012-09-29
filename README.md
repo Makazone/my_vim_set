@@ -1,2 +1,7 @@
-my_vim_set
-==========
+Instalation:
+    git clone git@github.com:Makazone/my_vim_set.git
+
+Create symbolic links:
+    
+    ln -s ~/.vim/vimrc ~/.vimrc
+    ln -s ~/.vim/gvimrc ~/.gvimrc
