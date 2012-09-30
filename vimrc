@@ -1,3 +1,6 @@
+call pathogen#infect()
+call pathogen#helptags()
+
 "set line highliting
 set cursorline
 
@@ -76,3 +79,5 @@ filetype plugin on
 
 " enable line numbering
 set number
+
+filetype plugin indent on
