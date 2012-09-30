@@ -4,10 +4,8 @@ Instalation:
     ```
 
 Create symbolic links:
-    ```
-    ln -s ~/.vim/vimrc ~/.vimrc
-    ln -s ~/.vim/gvimrc ~/.gvimrc
-    ```
+    ```ln -s ~/.vim/vimrc ~/.vimrc```
+    ```ln -s ~/.vim/gvimrc ~/.gvimrc```
 
 Init all submodules:
     ```
